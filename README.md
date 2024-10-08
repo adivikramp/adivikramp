@@ -1,3 +1,4 @@
+![logo](https://github.com/adivikramp/adivikramp/blob/main/linkedin_banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Vikram Singh</h1>
 <h3 align="center">Front End Developer | Skilled in HTML5, CSS3, TailwindCSS, JavaScript, ReactJs, and Responsive Designs</h3>
 
