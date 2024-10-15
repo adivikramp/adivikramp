@@ -1,6 +1,6 @@
 ![logo](https://github.com/adivikramp/adivikramp/blob/main/linkedin_banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Vikram Singh</h1>
-<h3 align="center">Front End Developer | Skilled in HTML5, CSS3, TailwindCSS, JavaScript, ReactJs, and Responsive Designs</h3>
+<h3 align="center">Front End Developer | Skilled in HTML5, CSS3, TailwindCSS, JavaScript, TypeScript, ReactJs, NextJs and Responsive Designs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adivikramp&label=Profile%20views&color=0e75b6&style=flat" alt="adivikramp" /> </p>
 
